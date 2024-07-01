@@ -4,6 +4,6 @@ import sys
 firstname = sys.argv[1]
 
 # assume surname is the second command line argument
-surname = sys.argv[2]
+surname = sys.argv[22]
 
-print(f"Your name is {firstname} {surname}")
+print(f"Your name is {firstname} {surname}"i)
